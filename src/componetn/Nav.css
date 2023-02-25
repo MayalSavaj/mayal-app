@@ -1,0 +1,104 @@
+
+.main{
+    position: absolute;
+width: 85px;
+height: 71px;
+left: 0px;
+top: 0px;
+background: #29B712;
+
+}
+
+img{
+    margin-left: 12px;
+    margin-top: 18px;;
+}
+.img1{
+position: absolute;
+width: 23px;
+height: 0px;
+left: 27px;
+top: 103px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 0%;
+/* identical to box height, or 0px */
+
+text-align: center;
+
+color: #000000;
+
+}
+.img1 p {
+    
+        font-size: 10px;
+        margin-top: 10px;
+        margin-left: -9px;
+   
+}
+.main-row h6{
+ 
+    margin-top: 35px;
+    margin-left: -12px;
+    
+font-size: 10px;
+}
+.img2{
+    
+position: absolute;
+width: 18px;
+height: 18px;
+left: 30px;
+top: 185px;
+
+
+background: url(../photo/image897.png);
+}
+    .img3{
+        position: absolute;
+width: 24px;
+height: 24px;
+left: 24px;
+top: 269px;
+
+background: url(../photo/image\ 898.png);
+    }
+.img4{
+    position: absolute;
+width: 28px;
+height: 28px;
+left: 22px;
+top: 351px;
+
+background: url(../photo/image\ 899.png);
+}
+.img5{
+    position: absolute;
+width: 23px;
+height: 23px;
+left: 25px;
+top: 444px;
+
+background: url(../photo/image\ 900.png);
+}
+.img6{
+    position: absolute;
+width: 27px;
+height: 27px;
+left: 24px;
+top: 529px;
+
+background: url(../photo/image\ 901.png);
+}
+.img7{
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 26px;
+top: 615px;
+
+background: url(../photo/image\ 902.png);
+}
